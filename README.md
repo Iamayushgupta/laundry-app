@@ -3,7 +3,7 @@
 2. Delivery inforamation is being stored inside the JSON file.
 3. "YARGS" module is being used in this to create CLI commands.
 
-# Demonstartion of App
+# Demonstration of App
 
 <h3> Submit Clothes </h3>
 
@@ -21,7 +21,7 @@ node app.js view
 
 ![image](https://user-images.githubusercontent.com/73697731/230732996-acf91798-709f-441c-84b7-11ea0e69dace.png)
 
-<h3> Collect CLothes </h3>
+<h3> Collect Clothes </h3>
 
 node app.js collect --name="Ayush"
 
